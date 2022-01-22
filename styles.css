@@ -1,0 +1,23 @@
+body{
+    background-color: #0F0E0E;
+}
+button{
+    color: #8B9A46;
+    height: 2.3em;
+    width: auto;
+    background-color: #0F0E0E;
+}
+h1{
+    color: #EEEEEE;
+    font-family: sans-serif;
+    text-align: center;
+}
+.new_{
+    
+}
+.sorting{
+    
+    margin-left: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
